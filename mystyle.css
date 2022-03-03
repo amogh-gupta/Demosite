@@ -3,8 +3,7 @@ body{
 }
 li:hover{
         cursor: pointer;
-        color:red
-    }
+        color:red;
 }
 header{
     display: flex;
