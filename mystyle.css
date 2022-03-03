@@ -1,6 +1,11 @@
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+li:hover{
+        cursor: pointer;
+        color:red
+    }
+}
 header{
     display: flex;
     justify-content: space-between;
